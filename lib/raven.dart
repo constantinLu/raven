@@ -13,4 +13,5 @@ export 'src/palette/gradient_picker.dart';
 
 //
 export 'src/sizeup/device_size.dart';
+export 'src/sizeup/space.dart';
 export 'src/typography/app_typography.dart';
